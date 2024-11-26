@@ -1,4 +1,5 @@
 flask_sqlalchemy
+flask-cors
 
 aiohttp==3.9.5
 aiohttp-retry==2.8.3
